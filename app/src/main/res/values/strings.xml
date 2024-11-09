@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Girl Diary</string>
+    <string name="Calender">Calender</string>
+    <string name="Settings">Settings</string>
+    <string name="MyAccount">User Account</string>
+    <string name="Login">Login</string>
+    <string name="Reg">Register</string>
+    <string name="exercise">Exercises</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
+
